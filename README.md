@@ -14,7 +14,7 @@
   <strong>클라이언트:</strong> 개인 프로젝트<br>
   <strong>날짜:</strong> 2025</span><br>
   <strong>서비스:</strong> 게임 개발</span>
-</p>
+</p>```
 
 2. 추가 기능
 코드 제목: 닫기버튼
