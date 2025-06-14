@@ -35,3 +35,8 @@
 
 홈페이지 주소: https://jeonghun1214.github.io/Jeonghun1214/
 테마 출처: startbootstrap사용
+사진 출처: 
+- https://image.tving.com/ntgs/contents/CTC/caip/CAIP0500/ko/20231226/0300/P001751289.jpg/dims/resize/1280
+- https://play-lh.googleusercontent.com/FXu4kI7LjR94mvQPcsD2EpbV0oGPTWjPPH-sgssr6oIJUtIiGpBf2qewgNhccBN9UKc
+- https://data.onnada.com/anime/201903/237746802_3da58bb8_1-6.jpg
+- https://blog.kakaocdn.net/dn/oka0g/btrSsnojshc/3zotSjk2sN6JpszayQFK5K/img.png
